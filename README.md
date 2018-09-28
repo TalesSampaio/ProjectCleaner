@@ -1,2 +1,2 @@
 # ProjectCleaner
-Vanish unused asset from your Unity Project
+Vanish unused assets from your Unity Project
